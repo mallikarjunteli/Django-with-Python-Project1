@@ -1,2 +1,2 @@
-# Student-managment-system
-Django project with python
+# Django With Python Project
+Student Management System
